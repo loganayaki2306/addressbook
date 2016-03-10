@@ -2,8 +2,11 @@
 #define MODEL_SQLITE_DATASOURCE_H
 
 #include <sqlite3.h>
+<<<<<<< HEAD
 //#include<Qtsql>
 #include<QSqlDatabase>
+=======
+>>>>>>> fed0ea7ff02843c946b01505e5bea6a3a82aefc5
 #include <string>
 #include <vector>
 #include "addressbookmodel.h"

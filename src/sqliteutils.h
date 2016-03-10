@@ -1,8 +1,11 @@
 #ifndef SQLITE_UTILS_H
 #define SQLITE_UTILS_H
 
+<<<<<<< HEAD
 //#include<Qtsql>
 #include<QSqlDatabase>
+=======
+>>>>>>> fed0ea7ff02843c946b01505e5bea6a3a82aefc5
 #include <string>
 #include "sqlite3.h"
 
