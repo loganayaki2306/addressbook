@@ -11,11 +11,11 @@ Included Makefile should build the program.
 
 Directory structure used during development was:
 
-/address-book    -main folder executable and database file are created here
-    -/src        -source and include files here
-    -/tmp        -temporary folder, object files built here
+`/address-book`    -main folder executable and database file are created here  
+  - `/src`            -source and include files here  
+  - `/tmp`            -temporary folder, object files built here  
 
 
 ### Video Demonstration
-For a demonstration of the project, please visit this [link](https://github.com/loganayaki2306/addressbook/edit/master/README).
+For a video demonstration of the project, please visit this [link](https://github.com/loganayaki2306/addressbook/edit/master/README.md).
 
