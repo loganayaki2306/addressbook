@@ -14,21 +14,21 @@ Add a getContact(Contact::ContactId) method to the DataSource interface
 
 *DONE*
 Build working UI prototype, don't get bogged down in small stylistic details right now 
-(i.e. sizeHint())
-    -Add 'Add Contact' functionality to UI
-    -Add 'Edit Contact' functionality to UI
+(i.e. sizeHint())  
+    -Add 'Add Contact' functionality to UI  
+    -Add 'Edit Contact' functionality to UI  
 
 Move all error strings into a centralized location to avoid having to update them manually if
 they need to be changed
 
 *FEATURE CUT*
-Decide on what kind of searching features will be supported & design the system for searching
-    -Return one match (or none if no exact match), or allow multiple returned matches
-        -If multiple returned matches, how will the user page through them?
+Decide on what kind of searching features will be supported & design the system for searching  
+    -Return one match (or none if no exact match), or allow multiple returned matches  
+        -If multiple returned matches, how will the user page through them?  
 
-    -Support wildcard searching?
+    -Support wildcard searching?  
 
-    -Support logical operators?
+    -Support logical operators?  
 
 *DONE*
 Changing selected contact in ContactList widget using the keyboard does not update the
