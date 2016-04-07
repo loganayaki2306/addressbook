@@ -22,4 +22,4 @@ most of that within the view itself.
 I should have spent more time really fleshing out the program design before hand.
 
 ### Additional Points
-See [TODO](/TODO.md) for additional points to consider.
+See [TODO](/TODO) for additional points to consider.
